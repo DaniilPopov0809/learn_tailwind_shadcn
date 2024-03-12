@@ -13,10 +13,10 @@ const Hero = () => {
         The best place to discover & apply to the coolest start up jobs, without the black box.
       </p>
       <ExploreForm />
-      <img src='/src/assets/hero-girl.svg' alt='Girl icon' width={99} height={99} className='absolute top-[374px] left-[64px]' />
-      <img src='/src/assets/hero-boy.svg' alt='Boy icon' width={90} height={90} className='absolute top-[148px] right-[170px]' />
-      <img src='/src/assets/hero-f.svg' alt='F icon' width={68} height={68} className='absolute bottom-[100px] left-[50px]' />
-      <img src='/src/assets/hero-w.svg' alt='W icon' width={72} height={72} className='absolute top-[21px] right-[206px]' />
+      <img src='/hero-girl.svg' alt='Girl icon' width={99} height={99} className='absolute top-[374px] left-[64px]' />
+      <img src='/hero-boy.svg' alt='Boy icon' width={90} height={90} className='absolute top-[148px] right-[170px]' />
+      <img src='/hero-f.svg' alt='F icon' width={68} height={68} className='absolute bottom-[100px] left-[50px]' />
+      <img src='/hero-w.svg' alt='W icon' width={72} height={72} className='absolute top-[21px] right-[206px]' />
     </div>
   )
 }

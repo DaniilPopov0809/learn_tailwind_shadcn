@@ -1,7 +1,7 @@
 .buttonIcon::after {
 	content: "";
 	margin-left: 10px;
-	background-image: url("/src/assets/exploreArrow.svg");
+	background-image: url("/exploreArrow.svg");
 	width: 20px;
 	height: 14px;
 }
